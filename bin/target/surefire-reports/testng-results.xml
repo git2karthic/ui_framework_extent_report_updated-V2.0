@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-27T10:41:51 IST" name="All Test Suite" finished-at="2022-05-27T10:42:07 IST" duration-ms="15690">
+    <groups>
+    </groups>
+    <test started-at="2022-05-27T10:41:51 IST" name="C:/dev/automation/framework" finished-at="2022-05-27T10:42:07 IST" duration-ms="15690">
+      <class name="com.automation.tests.Test_Loan">
+        <test-method is-config="true" signature="Initialize()[pri:0, instance:com.automation.tests.Test_Loan@1f3f4916]" started-at="2022-05-27T10:41:51 IST" name="Initialize" finished-at="2022-05-27T10:42:01 IST" duration-ms="9765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize -->
+        <test-method signature="Test_EducationLoanCalculation()[pri:0, instance:com.automation.tests.Test_Loan@1f3f4916]" started-at="2022-05-27T10:42:01 IST" name="Test_EducationLoanCalculation" finished-at="2022-05-27T10:42:07 IST" duration-ms="5871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_EducationLoanCalculation -->
+      </class> <!-- com.automation.tests.Test_Loan -->
+    </test> <!-- C:/dev/automation/framework -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
